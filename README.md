@@ -12,3 +12,7 @@ Participated in the ThingsUP IoT Challenge and Integrated Ultrasonic Distance Se
 2. Connect the TRIGGER of the ULtrasonic sensor to pin to GPIO 2 of ESP32
 3. Connect the ECHO pin of the ULtrasonic sensor to GPIO 4 of ESP32
 4. Connect the ground pin of the ULtrasonic sensor to GND of ESP 32
+
+# MQTT Connections
+1. Give the appropriate MQTT username and password in the Code.
+2. The channel ID should be same as where you want to the Result.
